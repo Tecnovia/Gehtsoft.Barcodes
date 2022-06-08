@@ -3,9 +3,6 @@ using Gehtsoft.Barcodes.Enums;
 using System;
 using System.Runtime.CompilerServices;
 
-[assembly: InternalsVisibleTo("Gehtsoft.Barcodes.UnitTests")]
-[assembly: InternalsVisibleTo("Gehtsoft.PDFFlowLib.Barcodes")]
-
 namespace Gehtsoft.Barcodes.Utils
 {
     internal static class BarcodesUtils
